@@ -1,0 +1,13 @@
+{
+  "appId": "com.dayquest.app",
+  "appName": "DayQuest",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#0f172a"
+  },
+  "ios": {
+    "backgroundColor": "#0f172a",
+    "contentInset": "automatic"
+  }
+}
